@@ -7,4 +7,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://www.bakaplay.online/sitemap1.xml
+Sitemap: https://www.bakaplay.online/sitemap2.xml
